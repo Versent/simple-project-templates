@@ -1,0 +1,6 @@
+localhost:8080, 172.19.1.240:8080
+gzip
+log ./access.log
+markdown / {
+
+}
